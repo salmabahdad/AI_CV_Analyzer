@@ -18,19 +18,13 @@
 ---
 
 ## 🛠️ Tech Stack
-- Python 3.11  
-- Streamlit (Web interface)  
-- PyPDF2 (PDF parsing)  
-- OpenAI API (GPT-4o-mini)  
-- dotenv (API key management)  
+- **Python 3.11**  
+- **Streamlit** – Web interface  
+- **PyPDF2** – PDF parsing  
+- **OpenAI API** – GPT-4o-mini for analysis  
+- **dotenv** – Securely manage API keys  
 
----
 
-## 🚀 Usage
-```bash
-git clone https://github.com/your-username/ai-cv-analyzer.git
-cd ai-cv-analyzer
-python -m venv venv
-source venv/bin/activate  # macOS/Linux
-pip install -r requirements.txt
-streamlit run app.py
+
+
+
